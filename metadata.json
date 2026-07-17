@@ -1,0 +1,8 @@
+{
+  "name": "PGM Production Tech Dashboard",
+  "description": "Comprehensive dashboard for production technology engineers to monitor performance, analyze downtime, and calculate capacity with local data processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
